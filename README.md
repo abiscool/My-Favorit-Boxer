@@ -1,2 +1,2 @@
-# My-Favorit-Boxer
-Hi, my name is @abiscool! I like to suck cocks really hard and for a long time.
+# My-Favorit-Boxer.
+Hi, I am @abiscool, and I created this as a project for my reading class. I put 100s of hours of work into this and I hope you enjoy it. <3
