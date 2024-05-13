@@ -1,5 +1,5 @@
 <html>
-  <title>
+  <head>
     My favortie boxer
-  </title>
+  </head>
 </html>
