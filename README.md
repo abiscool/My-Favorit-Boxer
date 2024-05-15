@@ -1,19 +1,15 @@
 <html>
-  <head>
-    My favortie boxer
-  </head>
-  <h4>
-    Francis Ngannou
-  </h4>
-  <img src="[img_girl.jpg](https://i.guim.co.uk/img/media/26bb75ee80f822b74c484eb045be992d4fdafb88/0_99_3549_2131/master/3549.jpg?width=1900&dpr=1&s=none)" alt="Francis Ngannou">
      <title> About Francis Ngannou</title>
      <body>
+          <a href="file:///C:/Users/Latitude%20E7250/Documents/visual%20studios/WFC.html">
           <img class="Ab" src="https://wallpapercave.com/wp/wp9703299.jpg" alt="Francis Ngannou">
+          </a>
           <style>
-               img {
+               .Ab {
                     position: absolute;
-                    left: 0%; top: -50%;
-                    clip: rect(500px,1100px,1100px,0px);
+                    left: 0%; top: -24.8%;
+                    clip: rect(290px,900px,700px,0px);
+                    width: 700px; height: 1000px;
 
           }
           </style>
@@ -29,20 +25,73 @@
           <div class="kl"></div>
           <style>
            .kl {
-                 border-left: 1903px solid black;
+                 border-left: 1920px solid black;
                  height: 5px;
                  position: absolute;
-                  top: 648px;
+                  top: 470px;
                  left: 0px;
                    } 
            </style>
 
           <div class="kl"></div>
-          <h2><mark style="background-color: white;">Francis ngannou is a professional boxer that had faced many hardships to make it to the top</h2>
+          <h2><mark style="background-color: white;">Francis Ngannou record in the UFC league
+          </br>
+               17-3-0</h2>
           <style>
                .super::selection {
                 background:white;
           }
+          </style>
+          <style>
+                    .lk {
+                          border-left: 5px solid black;
+                          height: 475px;
+                          position: absolute;
+                           top: 0px;
+                          left: 700px;
+                            } 
+          </style>
+              
+          <div class="lk"></div>
+          <a href="file:///C:/Users/Latitude%20E7250/Documents/visual%20studios/Francis%20Ngannou%20son.html">
+          <img class="baby" src="https://i.dailymail.co.uk/1s/2024/04/29/21/84237485-0-image-a-50_1714422971514.jpg">
+          </a>
+          <style>
+               .baby
+               {
+                    position: absolute;
+                    left: 705px;
+                    top: 88px;
+               }
+          </style>
+          <style>
+               .yes {
+                     border-left: 5px solid black;
+                     height: 475px;
+                     position: absolute;
+                      top: 0px;
+                     left: 1340px;
+                       } 
+     </style>
+         
+     <div class="yes"></div>
+          <h2 class="death"><mark style="background-color: white;">The death of Ngannou's son</h2>
+          <style>
+               .death{
+                    position: absolute;
+                    top: 0px;
+                    left: 720px;
+               }
+          </style>
+          <h1 class="ha"><mark style="background-color: white;">Francis Ngannou Museum</h1>
+          <style>
+               .ha
+               {
+                    position: absolute;
+                    top: -40px;
+                    left: 1400px;
+                    font-size: 120;
+               }
           </style>
      </body>
 </html>
