@@ -2,6 +2,6 @@
      <title> About Francis Ngannou</title>
      <body>
           <a href="https://www.google.com/">Google</a>
-          <p> Hi I am Abraham and I am a big black monkey nig who's very stupid and shits on people. I'm also Mr. Laing's son!</p>
+          <p> Games will be added here in the future (they will be either .ZIPs or .HTMLs) </p>
      </body>
 </html>
