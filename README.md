@@ -1,7 +1,7 @@
 <html>
-     <title> About Francis Ngannou</title>
      <body>
           <a href="https://www.google.com/">Google</a>
-          <p> Games will be added here in the future (they will be either .ZIPs or .HTMLs) </p>
+          <p> Access this repository from e-hallpass (or other methods) and use the Google link to get unblocked access</p>
+          <p> You can also access this repository from a browser and download the zip files to play games :D</p>
      </body>
 </html>
